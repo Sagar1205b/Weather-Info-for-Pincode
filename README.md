@@ -90,6 +90,8 @@ Application runs at:
 ```http
 GET http://localhost:8080/weather?pincode=580003&for_date=2025-07-07
 ```
+![image](https://github.com/user-attachments/assets/f80a1f10-8b2d-45dd-8670-a7191b476762)
+
 
 
 ---
@@ -103,6 +105,7 @@ If a past date is provided, the API will return a meaningful error:
 You may provide your own valid OpenWeatherMap key to test functionality.
 
 ---
+![image](https://github.com/user-attachments/assets/8563219c-aad9-42a4-9885-99935f8e0808)
 
 ## 🧪 Running Tests
 Right click on pom.xml and open in terminal
